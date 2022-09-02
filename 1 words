@@ -1,0 +1,52 @@
+HTML 
+<html> 
+<head> 
+<title> 
+MCQ'S 
+</title> 
+<style> 
+h2{color:mediumvioletred;} 
+p.abc{padding-left:30px;} 
+</style> 
+</head> 
+<body> 
+<h2>HTML Multiple Choice Questoins</h1> <p> 
+<b> 
+1)HTML stands for-</b><br> 
+<p class="abc">
+a.HighText Machine Language<br> 
+b.HyierText and links Markup Language<br> c.HyierText Markup Language<br> 
+d.None of these<br> 
+</p> 
+<b>2)The correct sequence of HTML tags for starting a  webpage is-</b><br> 
+<p class="abc"> 
+a.Head,Title,HTML,Body<br> 
+b.HTML,Body,Title,Head<br> 
+c.HTML,Head,Title,Body<br> 
+d.HTML,Head,Title,Body <br> 
+</p> 
+<b>3)Which of the following element is resionsible for  making the text bold in HTML?</b><br> 
+<p class="abc"> 
+a.<i><</i>pre<i>></i><br> 
+b.<i><</i>a<i>></i><br> 
+c.<i><</i>b<i>></i><br> 
+d.<i><</i>br<i>></i><br> 
+</p> 
+<b>4)Which of the following tag is used for inserting the  largest heading in HTML?</b><br>
+<p class="abc"> 
+a.<i><</i>h3<i>></i><br> 
+b.<i><</i>h1<i>></i><br> 
+c.<i><</i>h5<i>></i><br> 
+d.<i><</i>h6<i>></i><br> 
+</p> 
+<b>5)Which of the following tag is used to insert a line-break  in HTML?</b><br> 
+<p class="abc"> 
+a.<i><</i>br<i>></i><br> 
+b.<i><</i>a<i>></i><br> 
+c.<i><</i>pre<i>></i><br> 
+d.<i><</i>b<i>></i><br> 
+</p>  
+<b>6)How to create an unordered list (a list with the list  items in bullets) in HTML? 
+</b></p> 
+</body> 
+</html>
